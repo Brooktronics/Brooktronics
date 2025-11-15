@@ -2,7 +2,7 @@
 # Brooktronics – Hardware & Software Development<br><br>**Brooktronics** is a small engineering-focused company specializing in **embedded systems**, **digital electronics** and **hardware–software integration**.  <br>Founded and led by **Jan Brokeš (CEO)**.<br><br>## Focus<br><br>- Embedded development (C/C++ on Arduino, AVR, ESP32, Raspberry Pi)  <br>- Digital logic & VHDL (FSMs, counters, controllers)  <br>- SDR & wireless (RTL-SDR, LTE/5G scanning, UWB DW1000-based modules)  <br><br>## Technologies<br><br>- **Languages:** C/C++, Python, VHDL  <br>- **Platforms:** Arduino/AVR, ESP32/ESP32-S3, Raspberry Pi, RTL-SDR, UWB modules  <br>- **Tools:** VS Code, PlatformIO, Arduino IDE, Git/GitHub, Linux<br><br>## GitHub<br><br>Public repositories mainly showcase digital electronics and embedded projects; further work includes SDR, UWB positioning and control systems for RC platforms.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:honzik.brokes@seznam.cz) 
 
 # 💻 Tech Stack:
